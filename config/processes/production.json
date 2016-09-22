@@ -1,0 +1,12 @@
+{
+  "apps" : [{
+    "name"        : "node-backend",
+    "script"      : "app.js",
+    "watch"       : true,
+    "merge_logs"  : true,
+    "cwd"         : "/path/to/root/",
+    "env": {
+        "NODE_ENV": "production"
+    }
+  }]
+}
