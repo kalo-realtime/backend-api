@@ -55,6 +55,11 @@ TODO
 * Message filtering
 * Authentication
 * Location storage (mongo, redis, postgis. etc)
+* Dispatch strategy
+
+----
+* Test suite
+
 
 License
 =======
